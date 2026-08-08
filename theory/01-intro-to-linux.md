@@ -5,7 +5,15 @@
 Linux is a **open-source operating system** similar to Windows or macOS that manages a computer’s hardware and allows applications to run.
 It was created by **Linus Torvalds in 1991**.
 The kernel manages hardware and system resources and acts as a bridge between hardware and software.
-A complete Linux operating system is usually provided as a **Linux distribution (distro)**.
+
+---
+
+## Features of Linux
+**Open source**: Its source code can be inspected, modified, and shared.
+**Free**: Most Linux versions can be downloaded and used without a license fee.
+**Secure and stable**: It is widely used for servers, cloud platforms, and development.
+**Command-line friendly**: Users can control the system through a terminal, though graphical interfaces are also available.
+**Customizable**: Users can choose different desktop environments, tools, and system configurations.
 
 ---
 
@@ -29,12 +37,6 @@ The kernel manages core system resources such as:
 * Hardware devices
 * Filesystems
 * Networking
-
----
-
-## Shell
-A **shell** allows users to interact with the operating system through commands.
-**Bash** is one of the most commonly used Linux shells.
 
 ---
 
@@ -66,4 +68,4 @@ Understanding Linux is therefore an important foundation for my **Cybersecurity*
 * Ubuntu Documentation
 * Linux Kernel Documentation
 
-*******************************************************************************************************************************
+
