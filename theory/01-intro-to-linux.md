@@ -1,0 +1,69 @@
+# Introduction to Linux
+*******************************************************************************************************************************
+
+## What is Linux?
+Linux is a **open-source operating system** similar to Windows or macOS that manages a computer’s hardware and allows applications to run.
+It was created by **Linus Torvalds in 1991**.
+The kernel manages hardware and system resources and acts as a bridge between hardware and software.
+A complete Linux operating system is usually provided as a **Linux distribution (distro)**.
+
+---
+
+## Why Linux?
+Linux is widely used in:
+* Servers
+* Cloud computing
+* Networking
+* DevOps
+* Cybersecurity
+* Software development
+
+I'm learning Linux because it provides an important foundation for **cybersecurity**.
+
+---
+
+## Linux Kernel
+The kernel manages core system resources such as:
+* CPU and processes
+* Memory
+* Hardware devices
+* Filesystems
+* Networking
+
+---
+
+## Shell
+A **shell** allows users to interact with the operating system through commands.
+**Bash** is one of the most commonly used Linux shells.
+
+---
+
+## Linux in Cloud & Security
+Linux is commonly used for:
+* Cloud servers
+* Virtual machines
+* Containers
+* System administration
+* Security tools
+* Monitoring
+* Automation
+
+Understanding Linux is therefore an important foundation for my **Cybersecurity** learning path.
+
+---
+
+## Key Takeaways
+* Linux is an open-source kernel.
+* The kernel manages system resources and hardware.
+* A distribution provides a complete Linux environment.
+* The shell allows command-line interaction.
+* Linux is widely used in cloud and security environments.
+
+---
+  
+## References
+* Cisco Networking Academy — Linux Essentials
+* Ubuntu Documentation
+* Linux Kernel Documentation
+
+*******************************************************************************************************************************
