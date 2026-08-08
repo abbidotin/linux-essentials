@@ -8,15 +8,6 @@ The kernel manages hardware and system resources and acts as a bridge between ha
 
 ---
 
-## Features of Linux
-**Open source**: Its source code can be inspected, modified, and shared.
-**Free**: Most Linux versions can be downloaded and used without a license fee.
-**Secure and stable**: It is widely used for servers, cloud platforms, and development.
-**Command-line friendly**: Users can control the system through a terminal, though graphical interfaces are also available.
-**Customizable**: Users can choose different desktop environments, tools, and system configurations.
-
----
-
 ## Why Linux?
 Linux is widely used in:
 * Servers
